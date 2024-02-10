@@ -8,3 +8,5 @@ https://commons.wikimedia.org/wiki/File:Placeholder_male_superhero_c.png
 to get superhero picture.
 used https://akabab.github.io/superhero-api/api/
 That is the api I used to get all the information on the superheros. It is a open source api.
+How to run this program
+run gui.py
